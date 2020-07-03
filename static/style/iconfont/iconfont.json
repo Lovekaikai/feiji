@@ -1,0 +1,100 @@
+{
+  "id": "1732580",
+  "name": "upmall",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9835333",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "4188095",
+      "name": "AK-IN勾选",
+      "font_class": "in_gouxuan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6952320",
+      "name": "购物车-23",
+      "font_class": "gouwuche1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13613672",
+      "name": "分 享2",
+      "font_class": "fenxiang1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "1400849",
+      "name": "对",
+      "font_class": "dui",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6544494",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "13630334",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13742634",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "7174585",
+      "name": "我 的",
+      "font_class": "mine-gray",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "9644654",
+      "name": "首页-选中",
+      "font_class": "yemian-copy-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10463210",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4042493",
+      "name": "location",
+      "font_class": "iclocationonpx",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "13326885",
+      "name": "向右",
+      "font_class": "xiangyou1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
